@@ -1,0 +1,116 @@
+version: "3.8"
+
+x-airflow-common: &airflow-common
+  image: apache/airflow:2.9.1
+  environment:
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:2346@responsi/responsi_uts
+    AIRFLOW__CORE__FERNET_KEY: "46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLt0nIGTTM="
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__WEBSERVER__SECRET_KEY: "supersecretkey"
+    _PIP_ADDITIONAL_REQUIREMENTS: "psycopg2-binary requests"
+    API_URL: http://api:8000
+    DB_HOST: postgres
+    DB_PORT: 5434
+    DB_NAME: responsi_uts
+    DB_USER: postgres
+    DB_PASSWORD: 2346
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./data:/opt/airflow/data
+    - airflow_logs:/opt/airflow/logs
+  depends_on:
+    postgres:
+      condition: service_healthy
+  networks:
+    - pipeline_net
+
+services:
+
+  postgres:
+    image: postgres:15
+    container_name: responsi
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 2346
+      POSTGRES_DB: responsi_uts
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5434:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      retries: 10
+    networks:
+      - pipeline_net
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: fastapi_service
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8000:8000"
+    networks:
+      - pipeline_net
+
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    container_name: selenium_scraper
+    volumes:
+      - ./data:/app/data
+    networks:
+      - pipeline_net
+
+  airflow-init:
+    <<: *airflow-common
+    container_name: airflow_init
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        pip install psycopg2-binary requests --quiet
+        airflow db migrate
+        airflow users create \
+          --username admin \
+          --password admin \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com
+        echo "INIT SELESAI"
+    restart: "no"
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow_webserver
+    command: webserver
+    ports:
+      - "8080:8080"
+    restart: always
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow_scheduler
+    command: scheduler
+    restart: always
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+volumes:
+  postgres_data:
+  airflow_logs:
+
+networks:
+  pipeline_net:
+    driver: bridge
