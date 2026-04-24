@@ -445,5 +445,2240 @@
         "source": "Wired.com"
       }
     ]
+  },
+  {
+    "session_id": "wired_session_20260424_093415",
+    "timestamp": "2026-04-24T09:34:15.268294",
+    "articles_count": 55,
+    "articles": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "description": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "author": "ByKATE KNIBBS\nMADDY VARNER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "description": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "description": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "author": "ByANDY GREENBERG",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "author": "ByMAXWELL ZEFF",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Rednote Draws a Line Between China and the World",
+        "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+        "description": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+        "author": "ByZEYI YANG\nLOUISE MATSAKIS",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+        "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+        "description": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+        "author": "ByEMILY MULLIN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "description": "In this week’s episode of “Uncanny Valley,” we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "author": "ByBRIAN BARRETT\nZOË SCHIFFER\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The WIRED Gear Team’s Tips on Ways to Save Money",
+        "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
+        "description": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
+        "author": "ByJULIAN CHOKKATTU",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Pool-Cleaning Robots for a Truly Automated Summer",
+        "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "author": "ByCHRISTOPHER NULL",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Fitbit Models for Every Lifestyle",
+        "url": "https://www.wired.com/story/best-fitbit/",
+        "description": "Ready to start or reignite your fitness routine? I've rounded up the best Fitbit models for every stage of your journey.",
+        "author": "ByBOUTAYNA CHOKRANE",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "author": "ByWILL KNIGHT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+        "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+        "description": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+        "author": "ByTIFFANY NG",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "AI Drafting My Stories? Over My Dead Body",
+        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+        "author": "BySTEVEN LEVY",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+        "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+        "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+        "author": "ByNOAH SHACHTMAN\nROBERT SILVERMAN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
+        "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
+        "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Where the DOGE Operatives Are Now",
+        "url": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
+        "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Starting to Look Beyond Trump",
+        "url": "https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/",
+        "description": "A seemingly endless torrent of criticism directed toward Trump from former MAGA allies suggests the president is losing support from his base.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+        "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+        "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+        "author": "ByTIMOTHY MCLAUGHLIN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "author": "ByDELL CAMERON\nMADDY VARNER\nANDY GREENBERG\nANDREW COUTS",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+        "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+        "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
+        "url": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+        "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
+        "author": "ByJORGE GARAY",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "author": "ByMAXWELL ZEFF\nLAUREN GOODE",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+        "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+        "description": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+        "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+        "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "author": "ByREECE ROGERS",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Airfare Keeps Going Up. Here Are Some Tricks to Finding Cheap(er) Tickets",
+        "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
+        "description": "It's an expensive time to fly. These tips can help lighten the load on your wallet.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+        "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+        "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+        "author": "ByBOONE ASHWORTH",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Robot Vacuums That Don't Suck (Unless It's Dirt)",
+        "url": "https://www.wired.com/story/best-robot-vacuum/",
+        "description": "Tired of vacuuming? Give the reins to a robot vacuum. Here are the best robot vacuums I tried so far this year.",
+        "author": "ByNENA FARRELL",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Adidas Hyperboost Edge Is Your New Super Trainer",
+        "url": "https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/",
+        "description": "How do shoe companies translate superfast racing shoe tech into your daily trainers? We break it down with some of the best new running shoes on the market.",
+        "author": "ByKIERAN ALGER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+        "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+        "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+        "author": "ByMILES KLEE",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "War Memes Are Turning Conflict Into Content",
+        "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+        "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious.",
+        "author": "ByRAND AL-HADETHI",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 8 Best Movies to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
+        "description": "’28 Years Later: The Bone Temple,’ ‘Crime 101,’ and ‘Deathstalker’ are among the films deserving of your eyeballs this month",
+        "author": "ByMATT KAMEN",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 10 Best TV Shows to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
+        "description": "‘The Boys,’ ‘The Testaments,’ and ‘Stranger Things: Tales From ’85’ are just a few of the TV shows we’re bingeing this month.",
+        "author": "ByJENNIFER M. WOOD",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 24 Best Movies on Amazon Prime Right Now",
+        "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "description": "“Sinners,” “Wicked,” and “Die Hard” are just a few of the movies you should be watching on Amazon Prime Video this week.",
+        "author": "ByMATT KAMEN\nWIRED STAFF",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+        "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+        "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+        "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot.",
+        "author": "ByBRIAN BARRETT\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
+        "url": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved/",
+        "description": "In July 1993, a disguised player entered the World Open chess tournament in Philadelphia using the name of a mathematician who died in 1957. His real identity remained unknown—until now.",
+        "author": "ByKIT CHELLEL",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+        "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+        "description": "Even before the headset’s release, the workforce at Apple Stores was under duress. Trying to get customers interested in the Vision Pro made it worse.",
+        "author": "ByNOAM SCHEIBER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
+        "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+        "description": "For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.",
+        "author": "ByBRENDAN I. KOERNER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
+        "url": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
+        "description": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
+        "author": "ByMATTHEW REAMER",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+        "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+        "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+        "author": "ByEVANGELINE ELSA",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Your Push Notifications Aren’t Safe From the FBI",
+        "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+        "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+        "author": "ByMATT BURGESS\nMADDY VARNER\nLILY HAY NEWMAN\nDELL CAMERON",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+        "author": "ByGIA CHAUDRY",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Media Seems to Have Hit Its Breaking Point Over Iran",
+        "url": "https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/",
+        "description": "“The online right wasn’t supportive and there wasn’t anything that was going to change that,” says one person familiar with the Republican influencer pipeline.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T09:34:15.268294",
+        "source": "Wired.com"
+      }
+    ]
+  },
+  {
+    "session_id": "wired_session_20260424_095819",
+    "timestamp": "2026-04-24T09:58:19.887532",
+    "articles_count": 55,
+    "articles": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "description": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "author": "ByKATE KNIBBS\nMADDY VARNER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "description": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "description": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "author": "ByANDY GREENBERG",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "author": "ByMAXWELL ZEFF",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Rednote Draws a Line Between China and the World",
+        "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+        "description": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+        "author": "ByZEYI YANG\nLOUISE MATSAKIS",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+        "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+        "description": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+        "author": "ByEMILY MULLIN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "description": "In this week’s episode of “Uncanny Valley,” we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "author": "ByBRIAN BARRETT\nZOË SCHIFFER\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The WIRED Gear Team’s Tips on Ways to Save Money",
+        "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
+        "description": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
+        "author": "ByJULIAN CHOKKATTU",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Pool-Cleaning Robots for a Truly Automated Summer",
+        "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "author": "ByCHRISTOPHER NULL",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Fitbit Models for Every Lifestyle",
+        "url": "https://www.wired.com/story/best-fitbit/",
+        "description": "Ready to start or reignite your fitness routine? I've rounded up the best Fitbit models for every stage of your journey.",
+        "author": "ByBOUTAYNA CHOKRANE",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "author": "ByWILL KNIGHT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+        "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+        "description": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+        "author": "ByTIFFANY NG",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "AI Drafting My Stories? Over My Dead Body",
+        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+        "author": "BySTEVEN LEVY",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+        "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+        "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+        "author": "ByNOAH SHACHTMAN\nROBERT SILVERMAN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
+        "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
+        "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Where the DOGE Operatives Are Now",
+        "url": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
+        "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Starting to Look Beyond Trump",
+        "url": "https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/",
+        "description": "A seemingly endless torrent of criticism directed toward Trump from former MAGA allies suggests the president is losing support from his base.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+        "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+        "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+        "author": "ByTIMOTHY MCLAUGHLIN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "author": "ByDELL CAMERON\nMADDY VARNER\nANDY GREENBERG\nANDREW COUTS",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+        "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+        "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
+        "url": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+        "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
+        "author": "ByJORGE GARAY",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "author": "ByMAXWELL ZEFF\nLAUREN GOODE",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+        "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+        "description": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+        "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+        "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "author": "ByREECE ROGERS",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Airfare Keeps Going Up. Here Are Some Tricks to Finding Cheap(er) Tickets",
+        "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
+        "description": "It's an expensive time to fly. These tips can help lighten the load on your wallet.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+        "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+        "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+        "author": "ByBOONE ASHWORTH",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Robot Vacuums That Don't Suck (Unless It's Dirt)",
+        "url": "https://www.wired.com/story/best-robot-vacuum/",
+        "description": "Tired of vacuuming? Give the reins to a robot vacuum. Here are the best robot vacuums I tried so far this year.",
+        "author": "ByNENA FARRELL",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Adidas Hyperboost Edge Is Your New Super Trainer",
+        "url": "https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/",
+        "description": "How do shoe companies translate superfast racing shoe tech into your daily trainers? We break it down with some of the best new running shoes on the market.",
+        "author": "ByKIERAN ALGER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+        "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+        "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+        "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+        "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+        "author": "ByMILES KLEE",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 8 Best Movies to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
+        "description": "’28 Years Later: The Bone Temple,’ ‘Crime 101,’ and ‘Deathstalker’ are among the films deserving of your eyeballs this month",
+        "author": "ByMATT KAMEN",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 10 Best TV Shows to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
+        "description": "‘The Boys,’ ‘The Testaments,’ and ‘Stranger Things: Tales From ’85’ are just a few of the TV shows we’re bingeing this month.",
+        "author": "ByJENNIFER M. WOOD",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 24 Best Movies on Amazon Prime Right Now",
+        "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "description": "“Sinners,” “Wicked,” and “Die Hard” are just a few of the movies you should be watching on Amazon Prime Video this week.",
+        "author": "ByMATT KAMEN\nWIRED STAFF",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+        "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+        "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+        "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot.",
+        "author": "ByBRIAN BARRETT\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
+        "url": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved/",
+        "description": "In July 1993, a disguised player entered the World Open chess tournament in Philadelphia using the name of a mathematician who died in 1957. His real identity remained unknown—until now.",
+        "author": "ByKIT CHELLEL",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+        "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+        "description": "Even before the headset’s release, the workforce at Apple Stores was under duress. Trying to get customers interested in the Vision Pro made it worse.",
+        "author": "ByNOAM SCHEIBER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
+        "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+        "description": "For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.",
+        "author": "ByBRENDAN I. KOERNER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
+        "url": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
+        "description": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
+        "author": "ByMATTHEW REAMER",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "War Memes Are Turning Conflict Into Content",
+        "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+        "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious.",
+        "author": "ByRAND AL-HADETHI",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+        "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+        "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+        "author": "ByEVANGELINE ELSA",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Your Push Notifications Aren’t Safe From the FBI",
+        "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+        "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+        "author": "ByMATT BURGESS\nMADDY VARNER\nLILY HAY NEWMAN\nDELL CAMERON",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+        "author": "ByGIA CHAUDRY",
+        "scraped_at": "2026-04-24T09:58:19.887532",
+        "source": "Wired.com"
+      }
+    ]
+  },
+  {
+    "session_id": "wired_session_20260424_101719",
+    "timestamp": "2026-04-24T10:17:19.530437",
+    "articles_count": 55,
+    "articles": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "description": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "author": "ByKATE KNIBBS\nMADDY VARNER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "description": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "description": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "author": "ByANDY GREENBERG",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "author": "ByMAXWELL ZEFF",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Rednote Draws a Line Between China and the World",
+        "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+        "description": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+        "author": "ByZEYI YANG\nLOUISE MATSAKIS",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+        "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+        "description": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+        "author": "ByEMILY MULLIN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "description": "In this week’s episode of “Uncanny Valley,” we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "author": "ByBRIAN BARRETT\nZOË SCHIFFER\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The WIRED Gear Team’s Tips on Ways to Save Money",
+        "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
+        "description": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
+        "author": "ByJULIAN CHOKKATTU",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Pool-Cleaning Robots for a Truly Automated Summer",
+        "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "author": "ByCHRISTOPHER NULL",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Fitbit Models for Every Lifestyle",
+        "url": "https://www.wired.com/story/best-fitbit/",
+        "description": "Ready to start or reignite your fitness routine? I've rounded up the best Fitbit models for every stage of your journey.",
+        "author": "ByBOUTAYNA CHOKRANE",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "author": "ByWILL KNIGHT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+        "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+        "description": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+        "author": "ByTIFFANY NG",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "AI Drafting My Stories? Over My Dead Body",
+        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+        "author": "BySTEVEN LEVY",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+        "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+        "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+        "author": "ByNOAH SHACHTMAN\nROBERT SILVERMAN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Federal Agency Coming for Gender-Affirming Care",
+        "url": "https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/",
+        "description": "A series of new hires and investigations at the FTC appear to focus on penalizing gender-affirming care for minors—and those who speak in favor of it.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
+        "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
+        "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Where the DOGE Operatives Are Now",
+        "url": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
+        "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+        "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+        "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+        "author": "ByTIMOTHY MCLAUGHLIN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "author": "ByDELL CAMERON\nMADDY VARNER\nANDY GREENBERG\nANDREW COUTS",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+        "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+        "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
+        "url": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+        "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
+        "author": "ByJORGE GARAY",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "author": "ByMAXWELL ZEFF\nLAUREN GOODE",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+        "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+        "description": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+        "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+        "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "author": "ByREECE ROGERS",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Airfare Keeps Going Up. Here Are Some Tricks to Finding Cheap(er) Tickets",
+        "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
+        "description": "It's an expensive time to fly. These tips can help lighten the load on your wallet.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+        "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+        "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+        "author": "ByBOONE ASHWORTH",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Robot Vacuums That Don't Suck (Unless It's Dirt)",
+        "url": "https://www.wired.com/story/best-robot-vacuum/",
+        "description": "Tired of vacuuming? Give the reins to a robot vacuum. Here are the best robot vacuums I tried so far this year.",
+        "author": "ByNENA FARRELL",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Adidas Hyperboost Edge Is Your New Super Trainer",
+        "url": "https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/",
+        "description": "How do shoe companies translate superfast racing shoe tech into your daily trainers? We break it down with some of the best new running shoes on the market.",
+        "author": "ByKIERAN ALGER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+        "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+        "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+        "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+        "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+        "author": "ByMILES KLEE",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 8 Best Movies to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
+        "description": "’28 Years Later: The Bone Temple,’ ‘Crime 101,’ and ‘Deathstalker’ are among the films deserving of your eyeballs this month",
+        "author": "ByMATT KAMEN",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 10 Best TV Shows to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
+        "description": "‘The Boys,’ ‘The Testaments,’ and ‘Stranger Things: Tales From ’85’ are just a few of the TV shows we’re bingeing this month.",
+        "author": "ByJENNIFER M. WOOD",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 24 Best Movies on Amazon Prime Right Now",
+        "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "description": "“Sinners,” “Wicked,” and “Die Hard” are just a few of the movies you should be watching on Amazon Prime Video this week.",
+        "author": "ByMATT KAMEN\nWIRED STAFF",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+        "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+        "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+        "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot.",
+        "author": "ByBRIAN BARRETT\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
+        "url": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved/",
+        "description": "In July 1993, a disguised player entered the World Open chess tournament in Philadelphia using the name of a mathematician who died in 1957. His real identity remained unknown—until now.",
+        "author": "ByKIT CHELLEL",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+        "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+        "description": "Even before the headset’s release, the workforce at Apple Stores was under duress. Trying to get customers interested in the Vision Pro made it worse.",
+        "author": "ByNOAM SCHEIBER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
+        "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+        "description": "For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.",
+        "author": "ByBRENDAN I. KOERNER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
+        "url": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
+        "description": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
+        "author": "ByMATTHEW REAMER",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "War Memes Are Turning Conflict Into Content",
+        "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+        "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious.",
+        "author": "ByRAND AL-HADETHI",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+        "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+        "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+        "author": "ByEVANGELINE ELSA",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Your Push Notifications Aren’t Safe From the FBI",
+        "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+        "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+        "author": "ByMATT BURGESS\nMADDY VARNER\nLILY HAY NEWMAN\nDELL CAMERON",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+        "author": "ByGIA CHAUDRY",
+        "scraped_at": "2026-04-24T10:17:19.530437",
+        "source": "Wired.com"
+      }
+    ]
+  },
+  {
+    "session_id": "wired_session_20260424_102139",
+    "timestamp": "2026-04-24T10:21:39.542318",
+    "articles_count": 55,
+    "articles": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "description": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "author": "ByKATE KNIBBS\nMADDY VARNER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "description": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "description": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "author": "ByANDY GREENBERG",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "author": "ByMAXWELL ZEFF",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Rednote Draws a Line Between China and the World",
+        "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+        "description": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+        "author": "ByZEYI YANG\nLOUISE MATSAKIS",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+        "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+        "description": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+        "author": "ByEMILY MULLIN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "description": "In this week’s episode of “Uncanny Valley,” we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "author": "ByBRIAN BARRETT\nZOË SCHIFFER\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The WIRED Gear Team’s Tips on Ways to Save Money",
+        "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
+        "description": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
+        "author": "ByJULIAN CHOKKATTU",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Pool-Cleaning Robots for a Truly Automated Summer",
+        "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "author": "ByCHRISTOPHER NULL",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Fitbit Models for Every Lifestyle",
+        "url": "https://www.wired.com/story/best-fitbit/",
+        "description": "Ready to start or reignite your fitness routine? I've rounded up the best Fitbit models for every stage of your journey.",
+        "author": "ByBOUTAYNA CHOKRANE",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "author": "ByWILL KNIGHT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+        "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+        "description": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+        "author": "ByTIFFANY NG",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "AI Drafting My Stories? Over My Dead Body",
+        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+        "author": "BySTEVEN LEVY",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+        "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+        "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+        "author": "ByNOAH SHACHTMAN\nROBERT SILVERMAN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Federal Agency Coming for Gender-Affirming Care",
+        "url": "https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/",
+        "description": "A series of new hires and investigations at the FTC appear to focus on penalizing gender-affirming care for minors—and those who speak in favor of it.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
+        "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
+        "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Where the DOGE Operatives Are Now",
+        "url": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
+        "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+        "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+        "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+        "author": "ByTIMOTHY MCLAUGHLIN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "author": "ByDELL CAMERON\nMADDY VARNER\nANDY GREENBERG\nANDREW COUTS",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+        "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+        "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
+        "url": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+        "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
+        "author": "ByJORGE GARAY",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "author": "ByMAXWELL ZEFF\nLAUREN GOODE",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+        "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+        "description": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+        "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+        "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "author": "ByREECE ROGERS",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Airfare Keeps Going Up. Here Are Some Tricks to Finding Cheap(er) Tickets",
+        "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
+        "description": "It's an expensive time to fly. These tips can help lighten the load on your wallet.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+        "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+        "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+        "author": "ByBOONE ASHWORTH",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Robot Vacuums That Don't Suck (Unless It's Dirt)",
+        "url": "https://www.wired.com/story/best-robot-vacuum/",
+        "description": "Tired of vacuuming? Give the reins to a robot vacuum. Here are the best robot vacuums I tried so far this year.",
+        "author": "ByNENA FARRELL",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Adidas Hyperboost Edge Is Your New Super Trainer",
+        "url": "https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/",
+        "description": "How do shoe companies translate superfast racing shoe tech into your daily trainers? We break it down with some of the best new running shoes on the market.",
+        "author": "ByKIERAN ALGER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+        "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+        "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+        "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+        "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+        "author": "ByMILES KLEE",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 8 Best Movies to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
+        "description": "’28 Years Later: The Bone Temple,’ ‘Crime 101,’ and ‘Deathstalker’ are among the films deserving of your eyeballs this month",
+        "author": "ByMATT KAMEN",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 10 Best TV Shows to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
+        "description": "‘The Boys,’ ‘The Testaments,’ and ‘Stranger Things: Tales From ’85’ are just a few of the TV shows we’re bingeing this month.",
+        "author": "ByJENNIFER M. WOOD",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 24 Best Movies on Amazon Prime Right Now",
+        "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "description": "“Sinners,” “Wicked,” and “Die Hard” are just a few of the movies you should be watching on Amazon Prime Video this week.",
+        "author": "ByMATT KAMEN\nWIRED STAFF",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+        "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+        "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+        "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot.",
+        "author": "ByBRIAN BARRETT\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
+        "url": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved/",
+        "description": "In July 1993, a disguised player entered the World Open chess tournament in Philadelphia using the name of a mathematician who died in 1957. His real identity remained unknown—until now.",
+        "author": "ByKIT CHELLEL",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+        "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+        "description": "Even before the headset’s release, the workforce at Apple Stores was under duress. Trying to get customers interested in the Vision Pro made it worse.",
+        "author": "ByNOAM SCHEIBER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
+        "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+        "description": "For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.",
+        "author": "ByBRENDAN I. KOERNER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
+        "url": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
+        "description": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
+        "author": "ByMATTHEW REAMER",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "War Memes Are Turning Conflict Into Content",
+        "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+        "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious.",
+        "author": "ByRAND AL-HADETHI",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+        "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+        "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+        "author": "ByEVANGELINE ELSA",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Your Push Notifications Aren’t Safe From the FBI",
+        "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+        "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+        "author": "ByMATT BURGESS\nMADDY VARNER\nLILY HAY NEWMAN\nDELL CAMERON",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+        "author": "ByGIA CHAUDRY",
+        "scraped_at": "2026-04-24T10:21:39.542318",
+        "source": "Wired.com"
+      }
+    ]
+  },
+  {
+    "session_id": "wired_session_20260424_104645",
+    "timestamp": "2026-04-24T10:46:45.880691",
+    "articles_count": 55,
+    "articles": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "description": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "author": "ByKATE KNIBBS\nMADDY VARNER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "description": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+        "author": "ByMAKENA KELLY",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "description": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "author": "ByANDY GREENBERG",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "author": "ByMAXWELL ZEFF",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Rednote Draws a Line Between China and the World",
+        "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+        "description": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+        "author": "ByZEYI YANG\nLOUISE MATSAKIS",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+        "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+        "description": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+        "author": "ByEMILY MULLIN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/#intcid=_wired-verso-hp-trending_65b2ebf5-c570-4d13-af95-69694ed4525b_popular4-2",
+        "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "description": "In this week’s episode of “Uncanny Valley,” we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "author": "ByBRIAN BARRETT\nZOË SCHIFFER\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The WIRED Gear Team’s Tips on Ways to Save Money",
+        "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
+        "description": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
+        "author": "ByJULIAN CHOKKATTU",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Pool-Cleaning Robots for a Truly Automated Summer",
+        "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "author": "ByCHRISTOPHER NULL",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "author": "ByWILL KNIGHT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+        "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+        "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+        "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+        "description": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+        "author": "ByTIFFANY NG",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "AI Drafting My Stories? Over My Dead Body",
+        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+        "author": "BySTEVEN LEVY",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+        "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+        "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+        "author": "ByNOAH SHACHTMAN\nROBERT SILVERMAN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Federal Agency Coming for Gender-Affirming Care",
+        "url": "https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/",
+        "description": "A series of new hires and investigations at the FTC appear to focus on penalizing gender-affirming care for minors—and those who speak in favor of it.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
+        "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
+        "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
+        "author": "ByDAVID GILBERT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Where the DOGE Operatives Are Now",
+        "url": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
+        "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
+        "author": "ByVITTORIA ELLIOTT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+        "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+        "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+        "author": "ByTIMOTHY MCLAUGHLIN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "author": "ByDELL CAMERON\nMADDY VARNER\nANDY GREENBERG\nANDREW COUTS",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+        "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+        "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+        "author": "ByLILY HAY NEWMAN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+        "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+        "description": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+        "author": "ByMARTA MUSSO",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+        "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+        "author": "ByMOLLY TAFT",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
+        "url": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+        "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
+        "author": "ByJORGE GARAY",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "author": "ByMAXWELL ZEFF\nLAUREN GOODE",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+        "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+        "description": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+        "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+        "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+        "author": "ByKATE KNIBBS",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "author": "ByREECE ROGERS",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Airfare Keeps Going Up. Here Are Some Tricks to Finding Cheap(er) Tickets",
+        "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
+        "description": "It's an expensive time to fly. These tips can help lighten the load on your wallet.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+        "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+        "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+        "author": "ByBOONE ASHWORTH",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Best Fitbit Models for Every Lifestyle",
+        "url": "https://www.wired.com/story/best-fitbit/",
+        "description": "Ready to start or reignite your fitness routine? I've rounded up the best Fitbit models for every stage of your journey.",
+        "author": "ByBOUTAYNA CHOKRANE",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Robot Vacuums That Don't Suck (Unless It's Dirt)",
+        "url": "https://www.wired.com/story/best-robot-vacuum/",
+        "description": "Tired of vacuuming? Give the reins to a robot vacuum. Here are the best robot vacuums I tried so far this year.",
+        "author": "ByNENA FARRELL",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+        "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+        "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+        "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+        "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+        "author": "ByMILES KLEE",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+        "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+        "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+        "author": "ByEJ DICKSON",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 8 Best Movies to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
+        "description": "’28 Years Later: The Bone Temple,’ ‘Crime 101,’ and ‘Deathstalker’ are among the films deserving of your eyeballs this month",
+        "author": "ByMATT KAMEN",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 10 Best TV Shows to Stream This Month",
+        "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
+        "description": "‘The Boys,’ ‘The Testaments,’ and ‘Stranger Things: Tales From ’85’ are just a few of the TV shows we’re bingeing this month.",
+        "author": "ByJENNIFER M. WOOD",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The 24 Best Movies on Amazon Prime Right Now",
+        "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+        "description": "“Sinners,” “Wicked,” and “Die Hard” are just a few of the movies you should be watching on Amazon Prime Video this week.",
+        "author": "ByMATT KAMEN\nWIRED STAFF",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+        "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+        "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "author": "ByKATIE DRUMMOND",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+        "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot.",
+        "author": "ByBRIAN BARRETT\nLEAH FEIGER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
+        "url": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved/",
+        "description": "In July 1993, a disguised player entered the World Open chess tournament in Philadelphia using the name of a mathematician who died in 1957. His real identity remained unknown—until now.",
+        "author": "ByKIT CHELLEL",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+        "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+        "description": "Even before the headset’s release, the workforce at Apple Stores was under duress. Trying to get customers interested in the Vision Pro made it worse.",
+        "author": "ByNOAM SCHEIBER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
+        "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+        "description": "For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.",
+        "author": "ByBRENDAN I. KOERNER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
+        "url": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
+        "description": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
+        "author": "ByMATTHEW REAMER",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "War Memes Are Turning Conflict Into Content",
+        "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+        "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious.",
+        "author": "ByRAND AL-HADETHI",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "author": "ByAARIAN MARSHALL",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+        "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+        "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+        "author": "ByEVANGELINE ELSA",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "Your Push Notifications Aren’t Safe From the FBI",
+        "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+        "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+        "author": "ByMATT BURGESS\nMADDY VARNER\nLILY HAY NEWMAN\nDELL CAMERON",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+        "author": "ByGIA CHAUDRY",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      },
+      {
+        "title": "How Citizen Surveillance Ate San Francisco",
+        "url": "https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance/",
+        "description": "When a homeless man attacked a former city official, footage of the onslaught became a rallying cry. Then came another video, and another—and the story turned inside out.",
+        "author": "ByLAUREN SMILEY",
+        "scraped_at": "2026-04-24T10:46:45.880691",
+        "source": "Wired.com"
+      }
+    ]
   }
 ]

@@ -9,16 +9,15 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 
 API_URL     = os.getenv("API_URL",     "http://api:8000")
-DB_HOST     = os.getenv("DB_HOST",     "postgres")
+DB_HOST     = os.getenv("DB_HOST",     "responsi")
 DB_PORT     = int(os.getenv("DB_PORT", "5432"))
-DB_NAME     = os.getenv("DB_NAME",     "postgres")
+DB_NAME     = os.getenv("DB_NAME",     "responsi_uts")
 DB_USER     = os.getenv("DB_USER",     "postgres")
 DB_PASSWORD = os.getenv("DB_PASSWORD", "2346")
 
 log = logging.getLogger(__name__)
 
 def get_connection():
-    """Return psycopg2 connection ke wired_db."""
     return psycopg2.connect(
         host=DB_HOST,
         port=DB_PORT,
@@ -50,20 +49,16 @@ def create_table(**context):
         with conn.cursor() as cur:
             cur.execute(sql)
         conn.commit()
-        log.info("Tabel wired_articles siap.")
+        log.info("Tabel wired_articles siap")
     finally:
         conn.close()
 
 def fetch_from_api(**context):
-    """
-    Hit GET /articles ke FastAPI.
-    Simpan hasilnya ke XCom supaya bisa dipakai task berikutnya.
-    """
     url = f"{API_URL}/articles"
     log.info(f"Mengambil data dari: {url}")
 
     response = requests.get(url, timeout=30)
-    response.raise_for_status()  # raise exception kalau status bukan 2xx
+    response.raise_for_status()  
 
     data     = response.json()
     articles = data.get("articles", [])
@@ -80,7 +75,7 @@ def transform_data(**context):
         context["ti"].xcom_push(key="transformed_articles", value=[])
         return
 
-    log.info(f"Mentransformasi {len(articles)} artikel...")
+    log.info(f"Mentransformasi {len(articles)} artikel")
     transformed = []
 
     for article in articles:
@@ -106,7 +101,7 @@ def transform_data(**context):
             "source":      article.get("source") or "Wired.com",
         })
 
-    log.info(f"Transformasi selesai. {len(transformed)} artikel siap dimasukkan ke database.")
+    log.info(f"Transformasi selesai. {len(transformed)} artikel siap dimasukkan ke database")
 
     context["ti"].xcom_push(key="transformed_articles", value=transformed)
 
@@ -120,7 +115,7 @@ def load_to_postgres(**context):
         log.warning("Tidak ada artikel untuk dimasukkan ke database.")
         return
 
-    log.info(f"Memasukkan {len(articles)} artikel ke PostgreSQL...")
+    log.info(f"Memasukkan {len(articles)} artikel ke PostgreSQL")
 
     add_constraint_sql = """
         DO $$

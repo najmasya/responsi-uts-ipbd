@@ -1,10 +1,3 @@
-"""
-scraper.py
-1. Ambil daftar artikel dari halaman utama Wired.com
-2. Masuk ke tiap artikel untuk ambil author dan description
-Output: /app/data/articles.json
-"""
-
 import json
 import os
 import time
@@ -62,10 +55,6 @@ def scroll_to_load(driver, target):
 
 
 def get_article_detail(driver, url):
-    """
-    Buka halaman artikel dan ambil author + description.
-    Return (author, description) atau (None, None) kalau gagal.
-    """
     try:
         driver.get(url)
         WebDriverWait(driver, 10).until(
@@ -73,18 +62,14 @@ def get_article_detail(driver, url):
         )
         time.sleep(1)
 
-        # --- DESCRIPTION ---
-        # Wired taruh deskripsi di tag <p> pertama setelah judul, atau di meta tag
         description = ""
 
-        # Coba ambil dari meta tag dulu (paling reliable)
         try:
             meta = driver.find_element(By.CSS_SELECTOR, "meta[name='description']")
             description = meta.get_attribute("content") or ""
         except NoSuchElementException:
             pass
 
-        # Fallback: cari di elemen halaman
         if not description:
             for sel in [
                 "[class*='SubDek']",
@@ -100,7 +85,6 @@ def get_article_detail(driver, url):
                 except NoSuchElementException:
                     continue
 
-        # --- AUTHOR ---
         author = ""
         for sel in [
             "[class*='BylineName']",
@@ -118,7 +102,6 @@ def get_article_detail(driver, url):
             except NoSuchElementException:
                 continue
 
-        # Pastikan format "By..."
         if author and not author.lower().startswith("by"):
             author = "By" + author
 
@@ -142,17 +125,15 @@ def scrape_wired():
     driver = build_driver()
 
     try:
-        # ── Step 1: Kumpulkan semua URL dari halaman utama ────────
-        print("\n[1] Membuka halaman utama Wired.com...")
+        print("\nMembuka halaman utama Wired.com")
         driver.get(TARGET_URL)
         WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/story/']"))
         )
 
-        print(f"[2] Scrolling untuk kumpulkan {MIN_ARTICLES}+ URL...")
+        print(f"Scrolling untuk kumpulkan {MIN_ARTICLES}+ URL")
         scroll_to_load(driver, MIN_ARTICLES)
 
-        # Ambil semua URL unik
         cards = driver.find_elements(By.CSS_SELECTOR, "a[href*='/story/']")
         urls = []
         for card in cards:
@@ -167,8 +148,7 @@ def scrape_wired():
 
         print(f"    URL unik terkumpul: {len(urls)}")
 
-        # ── Step 2: Masuk ke tiap artikel untuk detail ────────────
-        print(f"\n[3] Mengambil detail tiap artikel (author + description)...")
+        print(f"\nMengambil detail tiap artikel (author + description)")
         for i, item in enumerate(urls[:MIN_ARTICLES + 5]):
             print(f"  [{i+1}/{min(len(urls), MIN_ARTICLES+5)}] {item['url'][-60:]}")
             author, description = get_article_detail(driver, item["url"])
@@ -182,12 +162,11 @@ def scrape_wired():
                 "source":      "Wired.com",
             })
 
-            # Jeda kecil antar request biar tidak kena rate limit
             time.sleep(0.5)
 
     finally:
         driver.quit()
-        print("[4] Browser ditutup.")
+        print("Browser ditutup.")
 
     result = {
         "session_id":     session_id,
@@ -214,12 +193,12 @@ def save_to_json(data):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(existing, f, ensure_ascii=False, indent=2)
 
-    print(f"\n[5] Disimpan ke: {OUTPUT_FILE}")
-    print(f"    Total session: {len(existing)}")
+    print(f"\nDisimpan ke: {OUTPUT_FILE}")
+    print(f"Total session: {len(existing)}")
 
 
 if __name__ == "__main__":
-    print("\nMemulai scraping Wired.com...\n")
+    print("\nMemulai scraping Wired.com\n")
     result = scrape_wired()
 
     author_count = sum(1 for a in result["articles"] if a.get("author"))
@@ -227,8 +206,6 @@ if __name__ == "__main__":
 
     print(f"\nHasil:")
     print(f"  Total artikel : {result['articles_count']}")
-    print(f"  Ada author    : {author_count}")
-    print(f"  Ada description: {desc_count}")
-
+    
     save_to_json(result)
     print("\nSelesai!")

@@ -11,8 +11,8 @@ x-airflow-common: &airflow-common
     AIRFLOW__WEBSERVER__SECRET_KEY: "supersecretkey"
     _PIP_ADDITIONAL_REQUIREMENTS: "psycopg2-binary requests"
     API_URL: http://api:8000
-    DB_HOST: postgres
-    DB_PORT: 5434
+    DB_HOST: responsi
+    DB_PORT: 5432
     DB_NAME: responsi_uts
     DB_USER: postgres
     DB_PASSWORD: 2346

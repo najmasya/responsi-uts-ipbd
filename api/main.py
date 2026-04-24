@@ -1,9 +1,3 @@
-"""
-main.py
-FastAPI service untuk menyajikan data hasil scraping Wired.com
-Endpoint utama: GET /articles
-"""
-
 import json
 import os
 from datetime import datetime
@@ -21,10 +15,6 @@ app = FastAPI(
 )
 
 def load_articles() -> list[dict]:
-    """
-    Baca articles.json dan return list semua artikel
-    dari semua session scraping.
-    """
     if not os.path.exists(DATA_FILE):
         raise HTTPException(
             status_code=404,
@@ -40,7 +30,6 @@ def load_articles() -> list[dict]:
     all_articles = []
     for session in sessions:
         articles = session.get("articles", [])
-        # Tambahkan session_id ke tiap artikel
         for article in articles:
             article["session_id"] = session.get("session_id", "unknown")
         all_articles.extend(articles)
@@ -67,13 +56,8 @@ def root():
 def get_articles(
     limit: Optional[int] = Query(default=None, description="Batasi jumlah artikel yang dikembalikan"),
 ):
-    """
-    Endpoint utama — return semua artikel hasil scraping.
-    Dipakai oleh Airflow DAG untuk mengambil data.
-    """
     articles = load_articles()
 
-    # Terapkan limit kalau ada
     if limit is not None:
         articles = articles[:limit]
 
@@ -86,7 +70,6 @@ def get_articles(
 
 @app.get("/health")
 def health_check():
-    """Cek status API dan ketersediaan file data."""
     file_exists = os.path.exists(DATA_FILE)
     article_count = 0
 
