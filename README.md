@@ -21,13 +21,12 @@ cd responsi-ipbd
 ```bash
 docker compose up -d
 ```
-Tunggu 2-3 menit sampai semua service ready.
 
 ### 3. Jalankan scraper
 ```bash
 docker compose run --rm scraper
 ```
-Scraper akan membuka Wired.com dan menyimpan 50+ artikel ke `data/articles.json`. Proses ini memakan waktu 3-5 menit.
+Scraper akan membuka Wired.com dan menyimpan 50+ artikel ke `data/articles.json`
 
 ### 4. Trigger DAG di Airflow
 - Buka `http://localhost:8080`
