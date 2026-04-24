@@ -44,8 +44,12 @@ LIMIT 3;
 -- Query 3: Artikel dengan keyword AI / Climate / Security
 SELECT title, description, author
 FROM wired_articles
-WHERE title ILIKE '%AI%' OR title ILIKE '%Climate%' OR title ILIKE '%Security%'
-OR description ILIKE '%AI%' OR description ILIKE '%Climate%' OR description ILIKE '%Security%';
+WHERE title ILIKE '%AI%' 
+OR title ILIKE '%Climate%' 
+OR title ILIKE '%Security%'
+OR description ILIKE '%AI%' 
+OR description ILIKE '%Climate%' 
+OR description ILIKE '%Security%';
 
 Port yang Digunakan
 Airflow UI: http://localhost:8080
